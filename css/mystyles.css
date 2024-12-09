@@ -1,0 +1,17 @@
+body{
+    font-family: fantasy;
+}
+.site-heading-lower{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.mb-3{
+    font-family: 'Courier New', Courier, monospace;
+}
+a{
+    font-family: fantasy;
+}
+#mainNav{
+    background-color: darkslategray;
+}
+
